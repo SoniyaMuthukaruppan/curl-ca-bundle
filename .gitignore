@@ -1,0 +1,6 @@
+*.*
+*/
+
+!.gitignore
+!curl-ca-bundle.crt
+
