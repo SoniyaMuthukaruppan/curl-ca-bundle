@@ -3,4 +3,4 @@
 
 !.gitignore
 !curl-ca-bundle.crt
-
+!*.md
